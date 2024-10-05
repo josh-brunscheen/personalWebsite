@@ -33,7 +33,7 @@ function App() {
 
         {/* TODO: Need to update raytracer code in github */}
         <div className="transition-all duration-500 rounded mt-3 p-3 w-full mx-auto bg-[url('../public/raytracer/longerMetalBalls.png')]">
-          <h1 className="p-10 text-xl sm:text-4xl"><b>Most Recent Project</b></h1>
+          <h1 className="p-10 text-3xl sm:text-4xl"><b>Most Recent Project</b></h1>
           <h1 className="p-10 text-xl sm:text-4xl">C++ Raytracer</h1>
           <h2><b>image generated with raytracer</b></h2>
           {/* //TODO: This needs to be its own class */}
@@ -56,7 +56,7 @@ function App() {
 
           {/* Path Finder Tile */}
           <div className="transition-all duration-500 rounded mt-3 p-3 w-full sm:w-2/5 m-3 bg-gradient-to-t from-slate-900 to-yellow-700 dark:text-slate-900">
-            <h1 className="p-10 text-xl sm:text-4xl"><b>Java Graph ADT and Path Finder</b></h1>
+            <h1 className="p-10 text-3xl sm:text-4xl"><b>Java Graph ADT and Path Finder</b></h1>
             <img src="paths.png" className="p-10"></img>
             {/* //TODO: This needs to be its own class */}
             <Link to="/pathFinder">
@@ -67,7 +67,7 @@ function App() {
           {/* TODO: Add pictures of results */}
           {/* Distance Field Tile */}
           <div className="transition-all duration-500 rounded mt-3 p-3 w-full sm:w-2/5 m-3 bg-gradient-to-t from-slate-500 to-slate-400 dark:text-slate-900">
-            <h1 className="p-10 text-xl sm:text-4xl"><b>C++ Distance Field Calculator</b></h1>
+            <h1 className="p-10 text-3xl sm:text-4xl"><b>C++ Distance Field Calculator</b></h1>
             <img src="Rectangles.png" className="p-10"></img>
             <Link to="/distancefield">
               <button className="bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-50 hover:bg-slate-900 hover:text-slate-50 dark:hover:bg-slate-50 dark:hover:text-slate-900 mt-10 mb-10 transition duration-700 ease-in-out hover:rotate-12"> Learn More </button>
@@ -76,7 +76,7 @@ function App() {
 
           {/* Previous Internship Tile */}
           <div className="transition-all duration-500 rounded mt-3 p-3 w-full sm:w-2/5 m-3 bg-gradient-to-t from-sky-800 to-sky-700 dark:text-slate-900">
-            <h1 className="p-10 text-xl sm:text-4xl"><b>Previous Internship:</b></h1>
+            <h1 className="p-10 text-3xl sm:text-4xl"><b>Previous Internship:</b></h1>
             <h1 className="p-10 text-xl sm:text-4xl">CS Summer Intern at First Trust Portfolios</h1>
             <Link to="/ftpinternship">
               <button className="bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-50 hover:bg-slate-900 hover:text-slate-50 dark:hover:bg-slate-50 dark:hover:text-slate-900 mt-10 mb-10 transition duration-700 ease-in-out hover:rotate-12"> Learn More </button>
