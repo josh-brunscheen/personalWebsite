@@ -13,7 +13,7 @@ function Raytracer() {
         {/* Article Div */}
         <div className="w-3/4 m-auto">
           <div className="transition-all duration-500 w-fit h-fit bg-sky-600">
-            <h1 className="mt-10 transition-all duration-500 text-left text-8xl text-slate-900 dark:text-slate-50"><b>Graphics Raytracer</b></h1>
+            <h1 className="mt-10 transition-all duration-500 text-left sm:text-8xl text-4xl text-slate-900 dark:text-slate-50"><b>Graphics Raytracer</b></h1>
           </div>
           <h2 className="mt-10 transition-all duration-500 text-left text-slate-900 dark:text-slate-50 text-xl"><b>Languages and Platforms: C++</b></h2>
           <h2 className="mt-10 transition-all duration-500 text-left text-sky-600 text-xl underline"><b>GitHub Repo: <a href="https://github.com/josh-brunscheen/raytracing">https://github.com/josh-brunscheen/raytracing</a></b></h2>

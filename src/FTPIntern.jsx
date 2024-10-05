@@ -10,7 +10,7 @@ function FTPIntern() {
         <Header />
         <div className="w-3/4 m-auto">
           <div className="transition-all duration-500 w-fit h-fit bg-blue-500">
-            <h1 className="mt-10 transition-all duration-500 text-left text-8xl text-slate-900 dark:text-slate-50"><b>FTP Internship</b></h1>
+            <h1 className="mt-10 transition-all duration-500 text-left sm:text-8xl text-4xl text-slate-900 dark:text-slate-50"><b>FTP Internship</b></h1>
           </div>
           <h2 className="mt-10 transition-all duration-500 text-left text-slate-900 dark:text-slate-50 text-xl"><b>Languages and Platforms: Delphi, In-House Database and Version Control, Fluent SQL</b></h2>
 
