@@ -32,20 +32,20 @@ function Raytracer() {
             Below I have some pictures that I generated with this project. The pictures go in order of development. The first couple of pictures are from first starting out this project, and the later pictures are from more recent developments.
           </h2>
 
-          <ImgCap url="../public/raytracer/raytracer1.png" caption="First sphere"></ImgCap>
-          <ImgCap url="../public/raytracer/raytracer2.png" caption="Playing with gradients, background, and foreground."></ImgCap>
-          <ImgCap url="../public/raytracer/raytracer3.png" caption="Pre antialiasing (rough borders)"></ImgCap>
-          <ImgCap url="../public/raytracer/raytracer4.png" caption="Post antialiasing (smoothening out borders)"></ImgCap>
-          <ImgCap url="../public/raytracer/raytracer5.png" caption="Working with shadows"></ImgCap>
-          <ImgCap url="../public/raytracer/raytracer6.png" caption="Messing around with multiple materials and reflective surfaces"></ImgCap>
-          <ImgCap url="../public/FINAL_SCENE.png" caption="Personal results from final scene in book tutorial"></ImgCap>
+          <ImgCap url="raytracer/raytracer1.png" caption="First sphere"></ImgCap>
+          <ImgCap url="raytracer/raytracer2.png" caption="Playing with gradients, background, and foreground."></ImgCap>
+          <ImgCap url="raytracer/raytracer3.png" caption="Pre antialiasing (rough borders)"></ImgCap>
+          <ImgCap url="raytracer/raytracer4.png" caption="Post antialiasing (smoothening out borders)"></ImgCap>
+          <ImgCap url="raytracer/raytracer5.png" caption="Working with shadows"></ImgCap>
+          <ImgCap url="raytracer/raytracer6.png" caption="Messing around with multiple materials and reflective surfaces"></ImgCap>
+          <ImgCap url="FINAL_SCENE.png" caption="Personal results from final scene in book tutorial"></ImgCap>
           
           <h2 className="mt-10 transition-all duration-500 text-left text-slate-900 dark:text-slate-50 text-xl">
             Images from this point forward are from my own additions; I did not follow any tutorial while developing this package. 
           </h2>
 
-          <ImgCap url="../public/raytracer/raytracer7.png" caption="Initial test for 3D math function visualizer. Focused on being able to get the balls in frame correctly."></ImgCap>
-          <ImgCap url="../public/raytracer/coolMetalBalls.png" caption="More polished test with more spheres, a reflective material, and a color gradient."></ImgCap>
+          <ImgCap url="raytracer/raytracer7.png" caption="Initial test for 3D math function visualizer. Focused on being able to get the balls in frame correctly."></ImgCap>
+          <ImgCap url="raytracer/coolMetalBalls.png" caption="More polished test with more spheres, a reflective material, and a color gradient."></ImgCap>
           
         </div>
         <Footer />

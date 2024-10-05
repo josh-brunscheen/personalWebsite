@@ -46,7 +46,7 @@ function App() {
           {/* RPOST Tile */}
           <div className="transition-all duration-500 rounded mt-3 p-3 w-full sm:w-1/2 m-3 bg-gradient-to-tl from-red-500 to-red-500 dark:text-slate-900 flex justify-center flex-wrap">
             {/* TODO: Accessibility for images */}
-            <img src="../public/RPost.svg" className="p-10 w-3/4"></img>
+            <img src="RPost.svg" className="p-10 w-3/4"></img>
             <h1 className="p-10 text-xl sm:text-4xl">The Unofficial Campus Social Media and Event Tracker of RPI</h1>
             {/* //TODO: This needs to be its own class */}
             <Link to="/rpost">
@@ -57,7 +57,7 @@ function App() {
           {/* Path Finder Tile */}
           <div className="transition-all duration-500 rounded mt-3 p-3 w-full sm:w-2/5 m-3 bg-gradient-to-t from-slate-900 to-yellow-700 dark:text-slate-900">
             <h1 className="p-10 text-xl sm:text-4xl"><b>Java Graph ADT and Path Finder</b></h1>
-            <img src="../public/paths.png" className="p-10"></img>
+            <img src="paths.png" className="p-10"></img>
             {/* //TODO: This needs to be its own class */}
             <Link to="/pathFinder">
               <button className="bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-50 hover:bg-slate-900 hover:text-slate-50 dark:hover:bg-slate-50 dark:hover:text-slate-900 mt-10 mb-10 transition duration-700 ease-in-out hover:rotate-12"> Learn More </button>
@@ -68,7 +68,7 @@ function App() {
           {/* Distance Field Tile */}
           <div className="transition-all duration-500 rounded mt-3 p-3 w-full sm:w-2/5 m-3 bg-gradient-to-t from-slate-500 to-slate-400 dark:text-slate-900">
             <h1 className="p-10 text-xl sm:text-4xl"><b>C++ Distance Field Calculator</b></h1>
-            <img src="../public/Rectangles.png" className="p-10"></img>
+            <img src="Rectangles.png" className="p-10"></img>
             <Link to="/distancefield">
               <button className="bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-50 hover:bg-slate-900 hover:text-slate-50 dark:hover:bg-slate-50 dark:hover:text-slate-900 mt-10 mb-10 transition duration-700 ease-in-out hover:rotate-12"> Learn More </button>
             </Link>
